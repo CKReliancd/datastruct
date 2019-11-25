@@ -1,4 +1,4 @@
-package com.atguigu.linkedlist;
+package main.java.com.atguigu.linkedlist;
 
 
 public class HeroNode {

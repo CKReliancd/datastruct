@@ -1,4 +1,4 @@
-package com.atguigu.linkedlist;
+package main.java.com.atguigu.linkedlist;
 
 public class Josephu {
     public static void main(String[] args) {
@@ -6,11 +6,11 @@ public class Josephu {
         CircleSingleLinkedList circleSingleLinkedList = new CircleSingleLinkedList();
 
 
-        circleSingleLinkedList.addBoy(5);
+        circleSingleLinkedList.addBoy1(5);
 
         circleSingleLinkedList.showBoy();
 
-        circleSingleLinkedList.countBoy(1,2,5);
+        circleSingleLinkedList.countBoy4(1,2,5);
 
 
     }
